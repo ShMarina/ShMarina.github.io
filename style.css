@@ -1,0 +1,26 @@
+body {
+  background-color: blueviolet;
+}
+
+.main {
+  color: #34dc12;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pakpak {
+  color: rgb(198, 211, 13);
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.titleName {
+  color: silver;
+  font-style: italic;
+  text-align: center;
+}
+
+ul {
+  font-size: 17px;
+  line-height: 1.5;
+}
